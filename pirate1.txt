@@ -1,0 +1,31 @@
+Uncle Sam
+c
+What is the capital of Colorado?
+a. Utah
+b. Boulder
+c. Denver
+d. Golden
+b
+What is the capital of Washington?
+a. Seattle
+b. Olympia
+c. Redmond
+d. None of the above
+a
+What is the capital of California?
+a. Sacramento
+b. LA
+c. Long Beach 
+d. Seattle
+d
+What is the capital of Utah?
+a. Zion
+b. Salt Lake City
+c. None
+d. Where's Utah?
+a
+What is the capital of Oregon?
+a. Salem
+b. Portland
+c. Bend
+d. Oregon
